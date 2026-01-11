@@ -85,13 +85,3 @@
   ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
   ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
   ![More](https://img.shields.io/badge/-...-111111?style=for-the-badge) --> 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=cntwmk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cntwmk) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
