@@ -8,7 +8,7 @@
 <details>  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>More Info </b> <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" align="right"/>
       </samp>
   </summary>
   
