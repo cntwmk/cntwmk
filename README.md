@@ -49,8 +49,7 @@
 
 <!-- Profile View -->
 <p>
-  👀 <b>You’re looking at me</b><br>
-  <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" />
+  👀 <b>You’re looking at me: </b> <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" />
 </p>
 
 </details>
