@@ -22,5 +22,5 @@
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![](https://img.shields.io/badge/More-...-111111?style=for-the-badge)
+![More](https://img.shields.io/badge/-...-111111?style=for-the-badge)
 
