@@ -2,7 +2,22 @@
 <h3> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE0c3V2YjdrcDhybXg1bGZjbThudXpiN25hZDJyMWVxNGNpMXBnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pbyZ6BGwhOJ1UdNPSo/giphy.gif" width="32" align="center" /> <b> Hello, I'm Masud Khan </b></h3> 
 <!-- Bio -->
 <p>I am focused on developing meaningful and practical services that aim to improve everyday life. My goal is to build solutions that are not only technically sound but also useful, accessible, and impactful for real people. I enjoy turning ideas into reliable products, solving real-world problems through technology, and continuously learning to improve my craft. I believe good services can make life easier, more efficient, and better, and I work with that mindset in every project I build. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90b2lpcWdndmMyNnU5aDA1NGFqZ3pqbnQyNzc2eDIwazAwaXNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IhIqBVRnOAnkIxfAsP/giphy.gif" width="23" align="center" /> </p>
-<!-- TechStack Head-->
+
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+<div>
+  <!-- TechStack Head-->
 <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Tech Stack : </b></h4> 
 <!-- TechStack IMG -->
 
@@ -23,6 +38,40 @@
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![More](https://img.shields.io/badge/-...-111111?style=for-the-badge)
+</div>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
+</div>
+
+<br>
+
+</details>
+
+##
 
 <!--Down Wave--> 
 <p align="center">
