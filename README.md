@@ -14,25 +14,7 @@
   
 <div align="center" >
    <!-- TechStack Section-->
-   <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Tech Stack : </b></h4> 
-  
-  ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-  ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=0DB7ED)
-  ![DRF](https://img.shields.io/badge/DRF-111111?style=for-the-badge&logo=django&logoColor=ff1709)
-  ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-  ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-  ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-  ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-  ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-  ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-  ![More](https://img.shields.io/badge/-...-111111?style=for-the-badge)
+  <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Tech Stack : </b></h4> 
   <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -73,3 +55,28 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
+
+
+
+
+
+
+
+  
+  <!-- ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+  ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=0DB7ED)
+  ![DRF](https://img.shields.io/badge/DRF-111111?style=for-the-badge&logo=django&logoColor=ff1709)
+  ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+  ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+  ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+  ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+  ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+  ![More](https://img.shields.io/badge/-...-111111?style=for-the-badge) --> 
