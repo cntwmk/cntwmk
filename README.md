@@ -53,7 +53,7 @@
   <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111"/>
 </p> -->
 
-<h4 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0cWs1OXdzODF3Ymkxb3h2Z2drdWlwYWV2Nzh4OWxmZnFpMGdjMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gtPr0NZ1QZ5xVkCPdl/giphy.gif" width="30" align="center" /> Support:</h4>
+<h3 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0cWs1OXdzODF3Ymkxb3h2Z2drdWlwYWV2Nzh4OWxmZnFpMGdjMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gtPr0NZ1QZ5xVkCPdl/giphy.gif" width="33" align="center" /> <b> Support : </b></h3>
 <p align="center" ><a align="center" href="https://ko-fi.com/cnctwmk"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cnctwmk" /></a></p>
 
 
