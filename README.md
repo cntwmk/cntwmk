@@ -15,7 +15,7 @@
 <div align="center" >
    <!-- TechStack Section-->
   <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Tech Stack : </b></h4> 
-  <div align="center" style="display: inline_block"><br>
+  <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
