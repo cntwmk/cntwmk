@@ -2,8 +2,9 @@
 <h3> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE0c3V2YjdrcDhybXg1bGZjbThudXpiN25hZDJyMWVxNGNpMXBnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pbyZ6BGwhOJ1UdNPSo/giphy.gif" width="32" align="center" /> <b>Masud Khan</b></h3> 
 <!-- Bio -->
 <p>I am focused on developing meaningful and practical services that aim to improve everyday life. My goal is to build solutions that are not only technically sound but also useful, accessible, and impactful for real people. I enjoy turning ideas into reliable products, solving real-world problems through technology, and continuously learning to improve my craft. I believe good services can make life easier, more efficient, and better, and I work with that mindset in every project I build. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90b2lpcWdndmMyNnU5aDA1NGFqZ3pqbnQyNzc2eDIwazAwaXNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IhIqBVRnOAnkIxfAsP/giphy.gif" width="23" align="center" /> </p>
-<!-- TechStack -->
-<h4> 💻 Tech Stack </h4>
+<!-- TechStack Head-->
+<h3> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE0c3V2YjdrcDhybXg1bGZjbThudXpiN25hZDJyMWVxNGNpMXBnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pbyZ6BGwhOJ1UdNPSo/giphy.gif" width="32" align="center" /> <b>Tech Stack : </b></h3> 
+<!-- TechStack IMG -->
 
 ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
