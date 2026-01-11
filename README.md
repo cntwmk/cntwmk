@@ -33,7 +33,7 @@
 
 <!-- Contact Section -->
 <div align="center" >
-  <h4> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIydDIya3BmNDFqYXA3bHIxbWRmcHY1aTd3MDNnZ29jZXc2eWs1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZJrNkGVY7BGDH8GwU/giphy.gif" width="30" /> <b> Contact Me : </b></h4> 
+  <h4> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIydDIya3BmNDFqYXA3bHIxbWRmcHY1aTd3MDNnZ29jZXc2eWs1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZJrNkGVY7BGDH8GwU/giphy.gif" width="30" align="center" /> <b> Contact Me : </b></h4> 
   
   [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cntwmk@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/cntwmk/?next=%2F)
