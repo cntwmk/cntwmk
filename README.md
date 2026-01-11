@@ -7,9 +7,8 @@
 ###
 <details>  
   <summary>
-      <samp>
-        <b>More Info </b> 
-        <p style="display: inline_block" ><img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111"/></p>
+      <samp style="display: inline_block">
+        <b>More Info </b> <p><img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111"/></p>
       </samp>
   </summary>
   
