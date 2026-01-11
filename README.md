@@ -32,7 +32,7 @@
 </div>
 
 <!-- Contact Section -->
-<div>
+<div align="center" >
   <samp>
     <h4><b>Contact Me :</b></h4>
   </samp>
@@ -44,8 +44,9 @@
 </div>
 
 <!-- Profile View -->
-<p>
-  👀 <b  align="center"" >You’re looking at me: <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" align="center"/></b>
+<p align="center">
+  👀 <b  align="center"" >You’re looking at me:</b>
+  <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" align="center"/>
 </p>
 
 </details>
