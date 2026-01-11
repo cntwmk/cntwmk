@@ -9,7 +9,7 @@
   <summary>
       <samp>
         <b>More Info </b> 
-        <p align="right"><img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111"/></p>
+        <p style="display: inline_block" align="right"><img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111"/></p>
       </samp>
   </summary>
   
