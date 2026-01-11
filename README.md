@@ -12,27 +12,29 @@
       </samp>
   </summary>
   
-<div align="center" >
-   <!-- TechStack Section-->
-  <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Tech Stack : </b></h4> 
-  <div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"> -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg"> -->
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"> -->
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"> -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DjangoREST.svg"> -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
-</div>
+  <div align="center" >
+     <!-- TechStack Section-->
+    <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Tech Stack : </b></h4> 
+    <div align="center" style="display: inline_block">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+    <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg"> -->
+    <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"> -->
+    <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"> -->
+    <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"> -->
+    <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DjangoREST.svg"> -->
+  </div>
 </div>
 
 <!-- Contact Section -->
