@@ -8,7 +8,7 @@
 <details>  
   <summary style="display: inline_block">
       <samp >
-        <h5>More Info</h5>&nbsp; <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" align="right" />
+        <b>More Info</b>&nbsp; <img src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=111111" align="right" />
       </samp>
   </summary>
   
