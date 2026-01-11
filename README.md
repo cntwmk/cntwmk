@@ -6,7 +6,7 @@
 
 ###
 <details>  
-  <summary>
+  <summary align="center" >
       <samp>
         <b>More Info</b>
       </samp>
