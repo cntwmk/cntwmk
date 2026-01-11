@@ -36,7 +36,7 @@
   <h4> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsNDB2ZTFhbGZ4aWJkcGU4aTRoM2U0cWNmN2owcWtsOGtweG9mdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VBjFyPj33NRf2/giphy.gif" width="30" /> <b> Contact Me : </b></h4> 
   
   [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cntwmk@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=insta&logoColor=ffffff)](https://www.instagram.com/cntwmk/?next=%2F)
+  [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagam&logoColor=ffffff)](https://www.instagram.com/cntwmk/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/8kc8HqXVw2)
   <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/name-here/) -->
 </div>
