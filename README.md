@@ -47,9 +47,9 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/name-here/) 
 </div>
 
-<!-- Profile View  755b25 -->
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=FFFFFF" /></p> 
+<!-- Profile View   -->
+<div>
+  <p"><img align="center" src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=755b25" /></p> 
 </div>
 
 </details>
