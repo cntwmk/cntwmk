@@ -38,7 +38,7 @@
 <!-- Contact Section -->
 <div>
   <samp>
-      <h4><b>Contact me : </b></h4>
+      <h4><b>Contact Me : </b></h4>
   </samp>
   
   [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cntwmk@gmail.com)
@@ -47,9 +47,9 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/name-here/) 
 </div>
 
-<!-- Profile View -->
+<!-- Profile View  755b25 -->
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=cntwmk&style=flat-square&color=FFFFFF" /></p> 
 </div>
 
 </details>
