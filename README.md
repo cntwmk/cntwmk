@@ -1,6 +1,6 @@
 <!--Heading Name-->
 
-<h3><b> 𝓜𝓪𝓼𝓾𝓭 𝓚𝓱𝓪𝓷 </b><img width="18" height="18" alt="image" align="center" src="https://github.com/user-attachments/assets/74cc1b7a-9e64-4a8f-a665-1d80a88d2fc0" /> </h3> FullStack Devloper
+<h3><b> 𝓜𝓪𝓼𝓾𝓭 𝓚𝓱𝓪𝓷 </b><img width="18" height="18" alt="image" align="center" src="https://github.com/user-attachments/assets/74cc1b7a-9e64-4a8f-a665-1d80a88d2fc0" /> </h3>
 
 <!-- Bio -->
 <p>I am focused on developing meaningful and practical services that aim to improve everyday life. My goal is to build solutions that are not only technically sound but also useful, accessible, and impactful for real people. I enjoy turning ideas into reliable products, solving real-world problems through technology, and continuously learning to improve my craft. I believe good services can make life easier, more efficient, and better, and I work with that mindset in every project I build. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90b2lpcWdndmMyNnU5aDA1NGFqZ3pqbnQyNzc2eDIwazAwaXNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IhIqBVRnOAnkIxfAsP/giphy.gif" width="23" align="center" /> </p>
