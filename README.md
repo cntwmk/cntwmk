@@ -1,6 +1,6 @@
 <!--Heading Name-->
 
-<h3><b> 𝓜𝓪𝓼𝓾𝓭 𝓚𝓱𝓪𝓷 </b><img width="18" height="18" alt="image" align="center" src="https://github.com/user-attachments/assets/74cc1b7a-9e64-4a8f-a665-1d80a88d2fc0" /> </h3>
+<h3><b> 𝓜𝓪𝓼𝓾𝓭 𝓚𝓱𝓪𝓷 </b><img width="18" height="18" alt="image" align="center" src="https://github.com/user-attachments/assets/74cc1b7a-9e64-4a8f-a665-1d80a88d2fc0" /> </h3>###Masud
 
 <!-- Bio -->
 <p>I am focused on developing <b>meaningful</b> and <b>practical services</b> that aim to improve <b>everyday life</b>. My goal is to build solutions that are not only <b>technically sound</b> but also <b>useful</b>, <b>accessible</b>, and <b>impactful</b> for real people. I enjoy turning ideas into <b>reliable products</b>, solving <b>real-world problems</b> through technology, and continuously learning to improve my craft. I believe good services can make life <b>easier</b>, <b>more efficient</b>, and <b>better</b>, and I work with that mindset in every project I build. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90b2lpcWdndmMyNnU5aDA1NGFqZ3pqbnQyNzc2eDIwazAwaXNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IhIqBVRnOAnkIxfAsP/giphy.gif" width="23" align="center" /> </p>
