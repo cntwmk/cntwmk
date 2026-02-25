@@ -1,6 +1,6 @@
 <!--Heading Name-->
 
-<h3><b>Masud Khan</b><img width="28" height="28" alt="image" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWs4MDF3Nm12ejh3emh3N2cybnlzMmg4ejk0ZWU4ZGd0czh0c2hhbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wRu2N1WQ7YjPEmB990/giphy.gif" /></h3> 
+<h3><b>Masud Khan</b><img width="35" height="35" alt="image" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWs4MDF3Nm12ejh3emh3N2cybnlzMmg4ejk0ZWU4ZGd0czh0c2hhbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wRu2N1WQ7YjPEmB990/giphy.gif" /></h3> 
 
 <!-- Bio -->
 <p>I am focused on developing <b>meaningful</b> and <b>practical services</b> that aim to improve <b>everyday life</b>. My goal is to build solutions that are not only <b>technically sound</b> but also <b>useful</b>, <b>accessible</b>, and <b>impactful</b> for real people. I enjoy turning ideas into <b>reliable products</b>, solving <b>real-world problems</b> through technology, and continuously learning to improve my craft. I believe good services can make life <b>easier</b>, <b>more efficient</b>, and <b>better</b>, and I work with that mindset in every project I build. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90b2lpcWdndmMyNnU5aDA1NGFqZ3pqbnQyNzc2eDIwazAwaXNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IhIqBVRnOAnkIxfAsP/giphy.gif" width="23" align="center" /> </p>
